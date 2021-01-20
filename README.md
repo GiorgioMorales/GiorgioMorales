@@ -3,6 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/giorgiomorales/giorgiomorales)](https:giorgiomorales.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/giorgio-morales/)
 
+I am a second-year PhD student in computer science at Montana State University and a current member of the Numerical Intelligent Systems Laboratory (NISL). I received my BSc degree in mechatronic engineering from National University of Engineering, Lima, Peru. My research interests are: Deep Learning, Explainable Machine Learning, Automated Machine Learning, and Computer Vision.
 
 <!--
 **GiorgioMorales/GiorgioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
