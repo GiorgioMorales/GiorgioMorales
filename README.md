@@ -1,5 +1,5 @@
 
-[![Visits Badge](https://badges.pufler.dev/visits/giorgiomorales/giorgiomorales)](https:giorgiomorales.dev)
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=GiorgioMorales.GiorgioMorales)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/giorgio-morales/)
 [![Web](https://img.shields.io/badge/Web%20Page-Profile-orange)](https://www.cs.montana.edu/users/moralesluna/)
 
@@ -9,6 +9,8 @@ I am a second-year PhD student in computer science at Montana State University a
 
 <!--
 **GiorgioMorales/GiorgioMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+(https://badges.pufler.dev/visits/giorgiomorales/giorgiomorales)](https:giorgiomorales.dev)
 
 Here are some ideas to get you started:
 
