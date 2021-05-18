@@ -8,7 +8,7 @@
 I am a second-year PhD student in computer science at Montana State University and a current member of the Numerical Intelligent Systems Laboratory (NISL). I received my BSc degree in mechatronic engineering from National University of Engineering, Lima, Peru. My research interests are: Deep Learning, Explainable Machine Learning, Automated Machine Learning, and Computer Vision.
 
 - 🔭 I’m currently working on the [On-Field Precision Experiment](https://sites.google.com/site/ofpeframework/home) project.
-- 🌱 I’m currently learning about Probabilistic Graphical Models.
+- 🌱 I’m currently learning about Gaussian Processes.
 - 😄 Pronouns: He/him/his.
 - ⚡ Fun fact: Birds are real.
 
