@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I am a PhD student in computer science at Montana State University and a current member of the Numerical Intelligent Systems Laboratory (NISL). I hold a BS in mechatronic engineering from National University of Engineering, Peru, and an MS in computer science from Montana State University, USA. My research interests are Deep Learning, Explainable Machine Learning, Automated Machine Learning, and Computer Vision.
+I am a PhD student in computer science at Montana State University and a current member of the Numerical Intelligent Systems Laboratory (NISL). I hold a BS in mechatronic engineering from the National University of Engineering, Peru, and an MS in computer science from Montana State University, USA. My research interests are Deep Learning, Explainable Machine Learning, Automated Machine Learning, Computer Vision, and Precision Agriculture.
 
 - 🔭 I’m currently working on the [On-Field Precision Experiment](https://sites.google.com/site/ofpeframework/home) project.
 - 🌱 I’m currently learning about Uncertainty Quantification.
