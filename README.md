@@ -5,10 +5,10 @@
 
 ### Hi there 👋
 
-I am a PhD student in computer science at Montana State University and a current member of the Numerical Intelligent Systems Laboratory (NISL). I hold a BS in mechatronic engineering from the National University of Engineering, Peru, and an MS in computer science from Montana State University, USA. My research interests are Deep Learning, Explainable Machine Learning, Automated Machine Learning, Computer Vision, and Precision Agriculture.
+My name is Giorgio L. Morales Luna. I am a researcher specializing in Symbolic Regression, Explainable and Interpretable Machine Learning, and Uncertainty Quantification. I earned a Ph.D. in Computer Science at Montana State University under the supervision of Dr. John Sheppard, as a member of the Numerical Intelligent Systems Laboratory (NISL). I hold an M.S. in Computer Science from Montana State University and a B.S. in Mechatronic Engineering from the National University of Engineering in Peru. My research aims to advance transparent machine learning techniques that support scientific discovery, decision-making under uncertainty, and data-driven exploration across disciplines such as physics, biodiversity, and engineering.
 
-- 🔭 I’m currently working on the [On-Field Precision Experiment](https://sites.google.com/site/ofpeframework/home) project.
-- 🌱 I’m currently learning about Symbolic Regression and Bayesian Optimization.
+- 🔭 I’m currently working at the [GREYC Laboratory](https://www.greyc.fr/en/laboratory/).
+- 🌱 I’m currently learning about Uncertainty Quantification in Generative Models.
 - 😄 Pronouns: He/him/his.
 - ⚡ Fun fact: Birds are real.
 
